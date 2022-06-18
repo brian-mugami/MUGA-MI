@@ -3,3 +3,6 @@ def square(number):
 
 def divide(number,dividend):
   return number / dividend
+
+def add(number, number2):
+  return number + number2
