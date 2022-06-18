@@ -4,5 +4,12 @@ def square(number):
 def divide(number,dividend):
   return number / dividend
 
+
 def add(number, number2):
   return number + number2
+
+def minus(num1,num2):
+  return num1-num2
+
+done
+
